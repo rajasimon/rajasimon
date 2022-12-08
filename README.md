@@ -2,7 +2,7 @@
 
 ### Annoncement 
 
-I'm building [Remote Jobs for India](https://remotejobsforindia.com)
+I'm building [blogstreak.com](https://blogstreak.com) - More about that later
 
 ### Personal Blog
 
