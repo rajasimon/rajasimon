@@ -2,7 +2,7 @@
 
 ### Annoncement 
 
-I'm building [blogstreak.com](https://blogstreak.com) - More about that later
+I'm building [embed-blog.com](https://embed-blog.com) - Easy embed a blog into any website
 
 ### Personal Blog
 
