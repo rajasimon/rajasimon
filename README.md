@@ -2,7 +2,8 @@
 
 ### Annoncement 
 
-I'm building [embed-blog.com](https://embed-blog.com) - Easy embed a blog into any website
+Building [embed-blog.com](https://embed-blog.com) - Easy embed a blog into any website.
+Creating [preview-card.com](https://preview-card.com) - Create a blog social meta image easily.
 
 ### Personal Blog
 
